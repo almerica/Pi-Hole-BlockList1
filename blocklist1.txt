@@ -1,0 +1,5 @@
+### Urls for ad servers 
+### Almerica
+adcolony.com
+cedexis-radar.net
+yahoodns.net
